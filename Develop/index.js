@@ -51,7 +51,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Description',
+        name: 'description',
         message: 'Provide a short description of your project.',
         validate: nameInput => {
             if (nameInput) {
@@ -63,7 +63,7 @@ const questions = [
         },
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'What kind of license does your project have?',
         choices: ['Apache 2.0','Boost','MIT', 'GPL v3','None'],

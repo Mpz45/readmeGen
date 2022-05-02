@@ -1,21 +1,24 @@
-# undefined
+# readmeGen
   ## Description
+  test 27
    ## Table of Contents
 -[Usage](#usage)
 
 -[License](#license)
 
--[Credits](#contributors)
+-[Contributors](#contributors)
 
 -[Questions](#questions)
    ## Usage
-   install NodeJS. type node index.js 
+   Nodejs required. node index.js in terminal
    ## License 
-   none
+   ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]https://opensource.org/licenses/Apache-2.0
+   * [License](#license)
+   undefined
    ## Contributors 
-   M P
+   Mihir Patel
    ## Questions 
-   Email: undefined
+   Email: patelmihir000@gmail.com
 
-   [GitHub User undefined:](https://github.com/Mpz45)
+   [GitHub User Mpz45:](github.com/Mpz45/readmeGen)
 
